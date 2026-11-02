@@ -1,6 +1,6 @@
-# Propostes de llibre d’estil · CDD-IA
+# Propostes de llibre d’estil
 
-Prototip visual amb tres propostes de sistema gràfic per al pilotatge dels mòduls 1 i 2 de CDD-IA.
+Prototip visual amb tres propostes de sistema gràfic per al pilotatge dels mòduls 1 i 2.
 
 ## Contingut
 
